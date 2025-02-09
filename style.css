@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: lightblue;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+footer {
+    background-color: lightblue;
+}
+
+nav {
+    background-color: olive;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+select {
+    padding: 10px;
+    background-color: white;
+    color: blue;
+    border-radius: 10px;
+    border: 1px solid navy;
+    font-size: 20px;
+}
+
+select option {
+    color: white;
+    background-color: navy;
+}
+
+body {
+    margin: 10px;
+    font-size: 20px;
+}
+
+.hub {
+    background-color: lightblue;
+}
+
+h2 {
+    color: blue;
+}
